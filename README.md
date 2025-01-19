@@ -24,7 +24,7 @@ A Spring Boot application for tracking stock portfolios with real-time price upd
 1. Clone the repository
 ```bash
 git clone https://github.com/Sha1kh4/backend-port.git
-cd portfolio-tracker
+cd backend-port
 ```
 
 2. Configure application.properties
